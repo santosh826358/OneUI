@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header nav.nav-bar .nav-item .nav-link {
+    font-family: "Trebuchet MS","Calibri",Helvetica,Arial,Verdana,san-serif;
+    color: #036;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 100;
+    margin-top: 37px;
+} 
